@@ -2,6 +2,8 @@ import React from 'react';
 import { Counter } from './components/Counter';
 
 const App = () => {
+  console.log('commit just for revert and amend')
+  console.log('second commit from testing branch')
   console.log('this commit from testing branch')
   console.log('third test commit')
   console.log('second test commit')
