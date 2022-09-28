@@ -2,13 +2,7 @@ import React from 'react';
 import { Counter } from './components/Counter';
 
 const App = () => {
-  console.log('next commit from master branch')
-  console.log('in this commit i created new testing branch')
-  console.log('commit just for revert and amend')
-  console.log('second commit from testing branch')
-  console.log('this commit from testing branch')
-  console.log('third test commit')
-  console.log('second test commit')
+ console.log('my master features')
   return <>
   <Counter/>
   </>;
