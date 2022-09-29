@@ -2,9 +2,7 @@ import React from 'react';
 import { Counter } from './components/Counter';
 
 const App = () => {
- console.log('my master features')
- console.log('i just created new feature')
- console.log('i just created second feature')
+ console.log('test br 1')
   return <>
   <Counter/>
   </>;
