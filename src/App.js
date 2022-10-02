@@ -2,9 +2,8 @@ import React from 'react';
 import { Counter } from './components/Counter';
 
 const App = () => {
- console.log('test br 1')
- console.log('testbr 2 ')
-
+ console.log('first sur')
+ console.log('first sur some code')
   return <>
   <Counter/>
   </>;
