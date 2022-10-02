@@ -2,7 +2,7 @@ import React from 'react';
 import { Counter } from './components/Counter';
 
 const App = () => {
- console.log('totla changes in master')
+ console.log('total changes in master')
   return <>
   <Counter/>
   </>;
